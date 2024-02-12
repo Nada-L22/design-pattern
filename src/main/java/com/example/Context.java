@@ -1,3 +1,5 @@
+package com.example;
+
 class Context {
     private Strategy strategy;
 
